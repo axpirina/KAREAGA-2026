@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Hasiera
 nav_order: 1
 ---
