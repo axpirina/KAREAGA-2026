@@ -11,7 +11,7 @@ Azalpena: Hosto distiratsu arantzatsuak ditu eta, landare emeetan, baia gorriak 
 
 ## Irudiak
 
-![Gorostia (Ilex aquifolium)](Irudiak/Gorostia (Ilex aquifolium) 01.jpg)
+![Gorostia (Ilex aquifolium)](Irudiak/Gorostia%20%28Ilex%20aquifolium%29%2001.jpg)
 
 
 ---

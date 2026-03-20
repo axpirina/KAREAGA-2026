@@ -11,7 +11,7 @@ Azalpena: Hosto txiki eta adar mehe malguak ditu. Hezetasun handiko eremuetan on
 
 ## Irudiak
 
-![Sahatsa arrunta (Salix aurita)](Irudiak/Sahatsa arrunta (Salix aurita) 01.jpg)
+![Sahatsa arrunta (Salix aurita)](Irudiak/Sahatsa%20arrunta%20%28Salix%20aurita%29%2001.jpg)
 
 
 ---

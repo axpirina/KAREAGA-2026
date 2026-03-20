@@ -11,7 +11,7 @@ Azalpena: Hosto txiki gingildunak eta adar arantzatsuak ditu. Udaberrian lore tx
 
 ## Irudiak
 
-![Elorri Zuria (Crataegus)](Irudiak/Elorri Zuria (Crataegus) 01.jpg)
+![Elorri Zuria (Crataegus)](Irudiak/Elorri%20Zuria%20%28Crataegus%29%2001.jpg)
 
 
 ---

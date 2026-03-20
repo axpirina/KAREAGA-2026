@@ -11,7 +11,7 @@ Azalpena: Cardamine taldeko belarkara da; hosto finak eta lore txikiak izan ohi 
 
 ## Irudiak
 
-![Xanpora Zuberoan (Cardamine)](Irudiak/Xanpora Zuberoan (Cardamine) 01.jpg)
+![Xanpora Zuberoan (Cardamine)](Irudiak/Xanpora%20Zuberoan%20%28Cardamine%29%2001.jpg)
 
 
 ---

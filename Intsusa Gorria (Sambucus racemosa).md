@@ -11,7 +11,7 @@ Azalpena: Hosto konposatu zerratuak ditu eta lore edo fruitu multzo trinkoak sor
 
 ## Irudiak
 
-![Intsusa Gorria (Sambucus racemosa)](Irudiak/Intsusa Gorria (Sambucus racemosa) 01.jpg)
+![Intsusa Gorria (Sambucus racemosa)](Irudiak/Intsusa%20Gorria%20%28Sambucus%20racemosa%29%2001.jpg)
 
 
 ---

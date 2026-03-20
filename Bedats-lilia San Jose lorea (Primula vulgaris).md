@@ -11,7 +11,7 @@ Azalpena: Karpetako irudietatik osatutako fitxa.
 
 ## Irudiak
 
-![Bedats-lilia San Jose lorea (Primula vulgaris)](Irudiak/Bedats-lilia San Jose lorea (Primula vulgaris) 01.jpg)
+![Bedats-lilia San Jose lorea (Primula vulgaris)](Irudiak/Bedats-lilia%20San%20Jose%20lorea%20%28Primula%20vulgaris%29%2001.jpg)
 
 
 ---

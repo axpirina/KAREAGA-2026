@@ -11,7 +11,7 @@ Azalpena: Karpetako irudietatik osatutako fitxa.
 
 ## Irudiak
 
-![Bitxilorea (Bellis annua) Margarita](Irudiak/Bitxilorea (Bellis annua) Margarita 01.jpg)
+![Bitxilorea (Bellis annua) Margarita](Irudiak/Bitxilorea%20%28Bellis%20annua%29%20Margarita%2001.jpg)
 
 
 ---

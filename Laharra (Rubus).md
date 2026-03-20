@@ -11,7 +11,7 @@ Azalpena: Zurtoin arantzatsuak eta hosto konposatuak ditu. Azkar zabaltzen den s
 
 ## Irudiak
 
-![Laharra (Rubus)](Irudiak/Laharra (Rubus) 01.jpg)
+![Laharra (Rubus)](Irudiak/Laharra%20%28Rubus%29%2001.jpg)
 
 
 ---

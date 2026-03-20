@@ -11,7 +11,7 @@ Azalpena: Azal oso lodi, zuntzezko eta gorrixka du, pitzadura bertikal sakonekin
 
 ## Irudiak
 
-![Sekuoia (Sequoiadendron giganteum)](Irudiak/Sekuoia (Sequoiadendron giganteum) 01.jpg)
+![Sekuoia (Sequoiadendron giganteum)](Irudiak/Sekuoia%20%28Sequoiadendron%20giganteum%29%2001.jpg)
 
 
 ---

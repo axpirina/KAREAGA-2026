@@ -11,7 +11,7 @@ Azalpena: Hosto lantzeolatuak eta zain paralelo oso nabarmenak ditu. Lur trinkot
 
 ## Irudiak
 
-![Plantaina (Plantago argentea Chaix)](Irudiak/Plantaina (Plantago argentea Chaix) 01.jpg)
+![Plantaina (Plantago argentea Chaix)](Irudiak/Plantaina%20%28Plantago%20argentea%20Chaix%29%2001.jpg)
 
 
 ---

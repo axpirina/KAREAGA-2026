@@ -11,7 +11,7 @@ Azalpena: Belar trinko eta orratz-formako hosto finez osatutako multzoa eratzen 
 
 ## Irudiak
 
-![Arrauka (Festuca gautieri)](Irudiak/Arrauka (Festuca gautieri) 01.jpg)
+![Arrauka (Festuca gautieri)](Irudiak/Arrauka%20%28Festuca%20gautieri%29%2001.jpg)
 
 
 ---

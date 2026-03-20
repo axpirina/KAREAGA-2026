@@ -11,7 +11,7 @@ Azalpena: Hosto txiki obalatu eta trinkoak ditu, mozketa ondo jasaten duena. Hes
 
 ## Irudiak
 
-![Ezpela (Buxus sempervirens)](Irudiak/Ezpela (Buxus sempervirens) 01.jpg)
+![Ezpela (Buxus sempervirens)](Irudiak/Ezpela%20%28Buxus%20sempervirens%29%2001.jpg)
 
 
 ---

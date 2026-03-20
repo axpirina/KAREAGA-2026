@@ -11,9 +11,9 @@ Azalpena: Hosto ezkatadun trinkoa du, eta adar-muturrak tonu arre-gorrixkara ald
 
 ## Irudiak
 
-![Tuia erraldoia (Thuja plicata)](Irudiak/Tuia erraldoia (Thuja plicata) 01.jpg)
+![Tuia erraldoia (Thuja plicata)](Irudiak/Tuia%20erraldoia%20%28Thuja%20plicata%29%2001.jpg)
 
-![Tuia erraldoia (Thuja plicata)](Irudiak/Tuia erraldoia (Thuja plicata) 02.jpg)
+![Tuia erraldoia (Thuja plicata)](Irudiak/Tuia%20erraldoia%20%28Thuja%20plicata%29%2002.jpg)
 
 
 ---

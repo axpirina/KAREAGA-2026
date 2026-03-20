@@ -11,7 +11,7 @@ Azalpena: Arroseta basala eta lore hori bizia garatzen dituen belarkara da. Hazi
 
 ## Irudiak
 
-![Txikoria (Taraxacum)](Irudiak/Txikoria (Taraxacum) 01.jpg)
+![Txikoria (Taraxacum)](Irudiak/Txikoria%20%28Taraxacum%29%2001.jpg)
 
 
 ---

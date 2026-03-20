@@ -11,7 +11,7 @@ Azalpena: Karpetako irudietatik osatutako fitxa.
 
 ## Irudiak
 
-![Ziabelarra (Galium)  Gatzagia](Irudiak/Ziabelarra (Galium)  Gatzagia 01.jpg)
+![Ziabelarra (Galium)  Gatzagia](Irudiak/Ziabelarra%20%28Galium%29%20%20Gatzagia%2001.jpg)
 
 
 ---

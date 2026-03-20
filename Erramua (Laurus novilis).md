@@ -11,7 +11,7 @@ Azalpena: Karpetako irudietatik osatutako fitxa.
 
 ## Irudiak
 
-![Erramua (Laurus novilis)](Irudiak/Erramua (Laurus novilis) 01.jpg)
+![Erramua (Laurus novilis)](Irudiak/Erramua%20%28Laurus%20novilis%29%2001.jpg)
 
 
 ---

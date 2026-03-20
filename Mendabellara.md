@@ -11,7 +11,7 @@ Azalpena: Irudiaren arabera hosto iletsu edo azal zimurtsuko belarkara da. Espez
 
 ## Irudiak
 
-![Mendabellara](Irudiak/Mendabellara 01.jpg)
+![Mendabellara](Irudiak/Mendabellara%2001.jpg)
 
 
 ---

@@ -11,7 +11,7 @@ Azalpena: Karpetako irudietatik osatutako fitxa.
 
 ## Irudiak
 
-![Min Belarra (Rumex × acutus)](Irudiak/Min Belarra (Rumex × acutus) 01.jpg)
+![Min Belarra (Rumex × acutus)](Irudiak/Min%20Belarra%20%28Rumex%20%C3%97%20acutus%29%2001.jpg)
 
 
 ---

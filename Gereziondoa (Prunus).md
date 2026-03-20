@@ -11,11 +11,11 @@ Azalpena: Lore zuri deigarriak ematen ditu multzotan, eta enborrean lerro horizo
 
 ## Irudiak
 
-![Gereziondoa (Prunus)](Irudiak/Gereziondoa (Prunus) 01.jpg)
+![Gereziondoa (Prunus)](Irudiak/Gereziondoa%20%28Prunus%29%2001.jpg)
 
-![Gereziondoa (Prunus)](Irudiak/Gereziondoa (Prunus) 02.jpg)
+![Gereziondoa (Prunus)](Irudiak/Gereziondoa%20%28Prunus%29%2002.jpg)
 
-![Gereziondoa (Prunus)](Irudiak/Gereziondoa (Prunus) 03.jpg)
+![Gereziondoa (Prunus)](Irudiak/Gereziondoa%20%28Prunus%29%2003.jpg)
 
 
 ---

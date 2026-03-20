@@ -11,7 +11,7 @@ Azalpena: Hosto gezi-formako bereizgarriak ditu, oinarrian bi lobulurekin. Belar
 
 ## Irudiak
 
-![Mingarratsa (Rumex acetosa)](Irudiak/Mingarratsa (Rumex acetosa) 01.jpg)
+![Mingarratsa (Rumex acetosa)](Irudiak/Mingarratsa%20%28Rumex%20acetosa%29%2001.jpg)
 
 
 ---

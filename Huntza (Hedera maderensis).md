@@ -11,7 +11,7 @@ Azalpena: Hosto handiago eta distiratsuagoak ditu, ehundura lodiagoarekin. Igoka
 
 ## Irudiak
 
-![Huntza (Hedera maderensis)](Irudiak/Huntza (Hedera maderensis) 01.jpg)
+![Huntza (Hedera maderensis)](Irudiak/Huntza%20%28Hedera%20maderensis%29%2001.jpg)
 
 
 ---

@@ -11,7 +11,7 @@ Azalpena: Karpetako irudietatik osatutako fitxa.
 
 ## Irudiak
 
-![Almitza (Holcus Lanatus) Heno blanco](Irudiak/Almitza (Holcus Lanatus) Heno blanco 01.jpg)
+![Almitza (Holcus Lanatus) Heno blanco](Irudiak/Almitza%20%28Holcus%20Lanatus%29%20Heno%20blanco%2001.jpg)
 
 
 ---

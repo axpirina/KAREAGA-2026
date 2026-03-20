@@ -11,7 +11,7 @@ Azalpena: Hosto hirukoitz zerratuak eta lore zuri txikiak ditu. Basoertzetan eta
 
 ## Irudiak
 
-![Mailubia (Fragaria vesca)](Irudiak/Mailubia (Fragaria vesca) 01.jpg)
+![Mailubia (Fragaria vesca)](Irudiak/Mailubia%20%28Fragaria%20vesca%29%2001.jpg)
 
 
 ---

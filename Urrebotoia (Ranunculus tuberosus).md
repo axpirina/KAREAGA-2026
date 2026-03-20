@@ -11,7 +11,7 @@ Azalpena: Lore hori distiratsua duen belarkara da, ranunkuluen ezaugarri tipikoe
 
 ## Irudiak
 
-![Urrebotoia (Ranunculus tuberosus)](Irudiak/Urrebotoia (Ranunculus tuberosus) 01.jpg)
+![Urrebotoia (Ranunculus tuberosus)](Irudiak/Urrebotoia%20%28Ranunculus%20tuberosus%29%2001.jpg)
 
 
 ---

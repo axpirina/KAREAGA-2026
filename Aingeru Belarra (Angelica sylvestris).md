@@ -11,7 +11,7 @@ Azalpena: Hosto konposatu handiak eta zurtoin sendoa ditu, sarri tonu morearekin
 
 ## Irudiak
 
-![Aingeru Belarra (Angelica sylvestris)](Irudiak/Aingeru Belarra (Angelica sylvestris) 01.jpg)
+![Aingeru Belarra (Angelica sylvestris)](Irudiak/Aingeru%20Belarra%20%28Angelica%20sylvestris%29%2001.jpg)
 
 
 ---

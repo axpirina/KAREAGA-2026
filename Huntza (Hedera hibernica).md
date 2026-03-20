@@ -11,9 +11,9 @@ Azalpena: Igokari iraunkorra da, hosto gingildun berdearekin. Enborretan edo hor
 
 ## Irudiak
 
-![Huntza (Hedera hibernica)](Irudiak/Huntza (Hedera hibernica) 01.jpg)
+![Huntza (Hedera hibernica)](Irudiak/Huntza%20%28Hedera%20hibernica%29%2001.jpg)
 
-![Huntza (Hedera hibernica)](Irudiak/Huntza (Hedera hibernica) 02.jpg)
+![Huntza (Hedera hibernica)](Irudiak/Huntza%20%28Hedera%20hibernica%29%2002.jpg)
 
 
 ---

@@ -11,7 +11,7 @@ Azalpena: Hosto handi eta zain markatudunak ditu, ertza zerratuarekin. Lorategie
 
 ## Irudiak
 
-![Hortentsia (Hydrangea)](Irudiak/Hortentsia (Hydrangea) 01.jpg)
+![Hortentsia (Hydrangea)](Irudiak/Hortentsia%20%28Hydrangea%29%2001.jpg)
 
 
 ---

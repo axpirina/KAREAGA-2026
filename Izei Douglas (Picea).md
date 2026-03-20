@@ -11,7 +11,7 @@ Azalpena: Azal ilun, zakar eta pitzadura sakonekoa du. Konifero altua da, enbor 
 
 ## Irudiak
 
-![Izei Douglas (Picea)](Irudiak/Izei Douglas (Picea) 01.JPEG)
+![Izei Douglas (Picea)](Irudiak/Izei%20Douglas%20%28Picea%29%2001.JPEG)
 
 
 ---

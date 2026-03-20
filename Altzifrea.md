@@ -11,7 +11,7 @@ Azalpena: Karpetako irudietatik osatutako fitxa.
 
 ## Irudiak
 
-![Altzifrea](Irudiak/Altzifrea 01.jpg)
+![Altzifrea](Irudiak/Altzifrea%2001.jpg)
 
 
 ---

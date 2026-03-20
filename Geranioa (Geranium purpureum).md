@@ -11,7 +11,7 @@ Azalpena: Lore more txikiak eta hosto zatituak ditu. Zurtoinek sarri tonu gorrix
 
 ## Irudiak
 
-![Geranioa (Geranium purpureum)](Irudiak/Geranioa (Geranium purpureum) 01.jpg)
+![Geranioa (Geranium purpureum)](Irudiak/Geranioa%20%28Geranium%20purpureum%29%2001.jpg)
 
 
 ---

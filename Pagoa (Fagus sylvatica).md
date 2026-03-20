@@ -11,7 +11,7 @@ Azalpena: Enbor leun gris bereizgarria du, eta itzal handiko basoetan maiz agert
 
 ## Irudiak
 
-![Pagoa (Fagus sylvatica)](Irudiak/Pagoa (Fagus sylvatica) 01.jpg)
+![Pagoa (Fagus sylvatica)](Irudiak/Pagoa%20%28Fagus%20sylvatica%29%2001.jpg)
 
 
 ---

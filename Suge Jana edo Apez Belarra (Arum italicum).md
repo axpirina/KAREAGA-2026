@@ -11,7 +11,7 @@ Azalpena: Hosto gezi-formakoak ditu, zain argi nabarmenekin. Itzalpeko eta hezet
 
 ## Irudiak
 
-![Suge Jana edo Apez Belarra (Arum italicum)](Irudiak/Suge Jana edo Apez Belarra (Arum italicum) 01.jpg)
+![Suge Jana edo Apez Belarra (Arum italicum)](Irudiak/Suge%20Jana%20edo%20Apez%20Belarra%20%28Arum%20italicum%29%2001.jpg)
 
 
 ---

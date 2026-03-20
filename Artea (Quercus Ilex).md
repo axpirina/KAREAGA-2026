@@ -11,13 +11,13 @@ Azalpena: Hosto gogor eta berde ilunak ditu, ertzean hortz edo arantza txikiekin
 
 ## Irudiak
 
-![Artea (Quercus Ilex)](Irudiak/Artea (Quercus Ilex) 01.jpg)
+![Artea (Quercus Ilex)](Irudiak/Artea%20%28Quercus%20Ilex%29%2001.jpg)
 
-![Artea (Quercus Ilex)](Irudiak/Artea (Quercus Ilex) 02.jpg)
+![Artea (Quercus Ilex)](Irudiak/Artea%20%28Quercus%20Ilex%29%2002.jpg)
 
-![Artea (Quercus Ilex)](Irudiak/Artea (Quercus Ilex) 03.jpg)
+![Artea (Quercus Ilex)](Irudiak/Artea%20%28Quercus%20Ilex%29%2003.jpg)
 
-![Artea (Quercus Ilex)](Irudiak/Artea (Quercus Ilex) 04.jpg)
+![Artea (Quercus Ilex)](Irudiak/Artea%20%28Quercus%20Ilex%29%2004.jpg)
 
 
 ---

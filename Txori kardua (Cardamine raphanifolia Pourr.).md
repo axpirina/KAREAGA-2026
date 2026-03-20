@@ -11,7 +11,7 @@ Azalpena: Cardamine generoaren barruko belarkara da, hosto konposatu eta lore tx
 
 ## Irudiak
 
-![Txori kardua (Cardamine raphanifolia Pourr.)](Irudiak/Txori kardua (Cardamine raphanifolia Pourr.) 01.jpg)
+![Txori kardua (Cardamine raphanifolia Pourr.)](Irudiak/Txori%20kardua%20%28Cardamine%20raphanifolia%20Pourr.%29%2001.jpg)
 
 
 ---

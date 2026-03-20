@@ -11,7 +11,7 @@ Azalpena: Hosto estuagoak eta gingil markatuak izan ditzake. Igokari gisa erabil
 
 ## Irudiak
 
-![Nepalgo Huntza (Hedera nepalensis)](Irudiak/Nepalgo Huntza (Hedera nepalensis) 01.jpg)
+![Nepalgo Huntza (Hedera nepalensis)](Irudiak/Nepalgo%20Huntza%20%28Hedera%20nepalensis%29%2001.jpg)
 
 
 ---

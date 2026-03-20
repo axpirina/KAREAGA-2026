@@ -11,7 +11,7 @@ Azalpena: Azal argixka eta adar meheak dituen zuhaitza da. Inguru fresko eta hez
 
 ## Irudiak
 
-![Urkia (Betula pubescens)](Irudiak/Urkia (Betula pubescens) 01.jpg)
+![Urkia (Betula pubescens)](Irudiak/Urkia%20%28Betula%20pubescens%29%2001.jpg)
 
 
 ---

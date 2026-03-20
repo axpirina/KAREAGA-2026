@@ -11,7 +11,7 @@ Azalpena: Karpetako irudietatik osatutako fitxa.
 
 ## Irudiak
 
-![Txori Kardua  (Cardamine pratensis)](Irudiak/Txori Kardua  (Cardamine pratensis) 01.jpg)
+![Txori Kardua  (Cardamine pratensis)](Irudiak/Txori%20Kardua%20%20%28Cardamine%20pratensis%29%2001.jpg)
 
 
 ---
