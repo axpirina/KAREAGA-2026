@@ -1,0 +1,35 @@
+# Node / Jekyll local build
+node_modules/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+vendor/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS / Linux
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V7
+.Trashes
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Large auto-generated files (keep PDFs tracked but exclude very large ones if needed)
+# Kareaga_Landareen_Gida.pdf  ← Deskomentatu PDF-a trackatu nahi ez baduzu
+
+# Temp / previews
+.previews/
+
+# Original text files (ez dira behar GitHub Pages-en)
+Izenik gabeko dokumentua
+Landareen analisia
+Suge jana.txt

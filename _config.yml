@@ -1,0 +1,81 @@
+title: "Kareaga Landareen Gida"
+description: "Aia (Gipuzkoa) – Kareaga mendiko landare gida | Arantzadi Zientzia Elkartea"
+baseurl: "/KAREAGA-2026"
+url: "https://axpirina.github.io"
+
+# Just the Docs theme
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+
+# Color scheme — light (ikusgarria, natura kutsuko)
+color_scheme: light
+
+# Navigation
+nav_sort: order   # nav_order erabiltzen du
+
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  rel_url: true
+  button: false
+
+# Footer
+footer_content: >-
+  © 2026 <a href="https://www.aranzadi.eus" target="_blank">Arantzadi Zientzia Elkartea</a> •
+  <a href="LICENSE">Creative Commons BY-NC-SA 4.0</a> •
+  Kareaga mendia, Aia (Gipuzkoa)
+
+# External navigation links
+aux_links:
+  "Arantzadi":
+    - "https://www.aranzadi.eus"
+
+aux_links_new_tab: true
+
+# Callouts
+callouts_level: quiet
+callouts:
+  note:
+    title: Oharra
+    color: blue
+  warning:
+    title: Kontuz
+    color: red
+
+# Logos / icons
+# logo: "/assets/img/logo.png"
+
+# Back to top button
+back_to_top: true
+back_to_top_text: "Igo"
+
+# Jekyll plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  toc_levels: 2..4
+
+# Exclude from Jekyll build
+exclude:
+  - "*.pdf"
+  - "*.epub"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - ".git"
+  - ".github"
+  - "Izenik gabeko dokumentua"
+  - "Landareen analisia"
+  - "Suge jana.txt"
+  - ".previews"
