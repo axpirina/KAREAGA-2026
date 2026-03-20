@@ -14,12 +14,9 @@ nav_order: 1
 		Kareaga mendian (Aia, Gipuzkoa) identifikatutako landare espezieen argazki-gida.
 		Dokumentazio hau botanika-irteeran bildutako 58 irudirekin osatua dago, 44 espezie landuaz.
 	</p>
-
-	<div class="home-actions">
-		<a class="btn btn-primary fs-5" href="Landareen_gida">📘 Gida osoa irakurri</a>
-		<a class="btn fs-5" href="Kareaga_Landareen_Gida.pdf">⬇ PDF deskargatu</a>
-	</div>
 </div>
+
+<img src="Irudiak/Gereziondoa%20(Prunus)%2001.jpg" alt="Gereziondoa (Prunus)" style="width:100%; border-radius:1rem; border:1px solid #d7e6c2;" loading="lazy">
 
 ---
 
@@ -60,7 +57,7 @@ nav_order: 1
 
 **Kareaga mendia** Aia udalerriko (Gipuzkoa, Euskadi) muinoetako bat da, pagadiek, haritzek eta ornamental landareak ugariak direla eta. Bertako biodibertsitate aberatsa da, estazio guztietan espezie ugari aurkitzen baitira.
 
-📍 [Google Maps-en ikusi](https://maps.app.goo.gl/kareaga-aia-gipuzkoa){: target="_blank"}
+📍 [Google Maps-en ikusi (43.21225448171032, -2.1449374766424123)](https://www.google.com/maps?q=43.21225448171032,-2.1449374766424123){: target="_blank"}
 
 ---
 
