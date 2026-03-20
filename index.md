@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Hasiera
@@ -29,8 +30,8 @@ Dokumentazio hau botanika-irteeran bildutako 58 irudirekin osatua dago, 44 espez
 |:----------|:---------------:|:-------------|
 | 🌳 [Zuhaitzak](Zuhaitzak) | 12 | Zuhaitz espezieak |
 | 🌿 [Zuhaixkak](Zuhaixkak) | 10 | Zuhaixkak eta igokailak |
-| 🌸 [Belar Landareak](Belar-Landareak) | 17 | Landare belarkariak |
-| 🌾 [Gramineoak eta Irazteak](Gramineoak-eta-Irazteak) | 4 | Belar eta iratze espezieak |
+| 🌸 [Belar Landareak](Belar%20Landareak.html) | 17 | Landare belarkariak |
+| 🌾 [Gramineoak eta Irazteak](Gramineoak%20eta%20Irazteak.html) | 4 | Belar eta iratze espezieak |
 
 </div>
 
