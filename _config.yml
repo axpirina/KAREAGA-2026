@@ -55,6 +55,7 @@ back_to_top_text: "Igo"
 # Jekyll plugins
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
 
