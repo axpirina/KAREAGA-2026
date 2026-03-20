@@ -24,6 +24,7 @@ Kareaga mendian identifikatutako zuhaitz espezieak.
 | [Gorostia](Gorostia (Ilex aquifolium)) | *Ilex aquifolium* |
 | [Haritz kankugabea](Haritz kankugabea (Quercus petraea)) | *Quercus petraea* |
 | [Izei Douglas](Izei Douglas (Picea)) | *Picea* sp. |
+| [Lizarra](Lizarra (Fraxinus excelsior)) | *Fraxinus excelsior* |
 | [Pagoa](Pagoa (Fagus sylvatica)) | *Fagus sylvatica* |
 | [Sahatsa arrunta](Sahatsa arrunta (Salix aurita)) | *Salix aurita* |
 | [Sekuoia](Sekuoia (Sequoiadendron giganteum)) | *Sequoiadendron giganteum* |

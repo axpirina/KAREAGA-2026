@@ -1,6 +1,7 @@
 ---
-**Arantzadi Zientzia Elkartea**  
-Kareaga Landareen Gida | Aia (Gipuzkoa)
+layout: default
+title: Landareen gida
+nav_exclude: true
 ---
 
 # Landareen gida (lur eremua)

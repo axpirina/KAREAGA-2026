@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Lizarra (Fraxinus excelsior)"
-parent: Bestelakoak
-nav_order: 99
+parent: Zuhaitzak
+nav_order: 13
 ---
 
 # Lizarra (Fraxinus excelsior)
