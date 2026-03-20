@@ -11,9 +11,10 @@ Azalpena: Enbor pitzatua eta hosto gingildun berde argiak ditu. Haritz mota hone
 
 ## Irudiak
 
-![Haritz kankugabea (Quercus petraea)](Irudiak/Haritz%20kankugabea%20%28Quercus%20petraea%29%2001.jpg)
-
-![Haritz kankugabea (Quercus petraea)](Irudiak/Haritz%20kankugabea%20%28Quercus%20petraea%29%2002.jpg)
+<div class="plant-gallery gallery-2">
+	<img src="Irudiak/Haritz%20kankugabea%20%28Quercus%20petraea%29%2001.jpg" alt="Haritz kankugabea (Quercus petraea)" loading="lazy">
+	<img src="Irudiak/Haritz%20kankugabea%20%28Quercus%20petraea%29%2002.jpg" alt="Haritz kankugabea (Quercus petraea)" loading="lazy">
+</div>
 
 
 ---

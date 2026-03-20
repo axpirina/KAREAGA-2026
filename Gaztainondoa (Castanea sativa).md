@@ -11,9 +11,10 @@ Azalpena: Azal grisaxka eta pitzadura bertikal fin ugari ditu enborrean. Egitura
 
 ## Irudiak
 
-![Gaztainondoa (Castanea sativa)](Irudiak/Gaztainondoa%20%28Castanea%20sativa%29%2001.jpg)
-
-![Gaztainondoa (Castanea sativa)](Irudiak/Gaztainondoa%20%28Castanea%20sativa%29%2002.jpg)
+<div class="plant-gallery gallery-2">
+	<img src="Irudiak/Gaztainondoa%20%28Castanea%20sativa%29%2001.jpg" alt="Gaztainondoa (Castanea sativa)" loading="lazy">
+	<img src="Irudiak/Gaztainondoa%20%28Castanea%20sativa%29%2002.jpg" alt="Gaztainondoa (Castanea sativa)" loading="lazy">
+</div>
 
 
 ---

@@ -11,9 +11,10 @@ Azalpena: Fronde bipinnatuak ditu, hostoxka zerratuekin. Itzalpeko eremu hezeeta
 
 ## Irudiak
 
-![Iratze arra (Dryopteris affinis)](Irudiak/Iratze%20arra%20%28Dryopteris%20affinis%29%2001.jpg)
-
-![Iratze arra (Dryopteris affinis)](Irudiak/Iratze%20arra%20%28Dryopteris%20affinis%29%2002.jpg)
+<div class="plant-gallery gallery-2">
+	<img src="Irudiak/Iratze%20arra%20%28Dryopteris%20affinis%29%2001.jpg" alt="Iratze arra (Dryopteris affinis)" loading="lazy">
+	<img src="Irudiak/Iratze%20arra%20%28Dryopteris%20affinis%29%2002.jpg" alt="Iratze arra (Dryopteris affinis)" loading="lazy">
+</div>
 
 
 ---

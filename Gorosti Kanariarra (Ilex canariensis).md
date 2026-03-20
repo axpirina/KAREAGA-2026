@@ -11,9 +11,10 @@ Azalpena: Gorostiaren antzekoa da, baina hosto leunagoak izan ohi ditu. Baia gor
 
 ## Irudiak
 
-![Gorosti Kanariarra (Ilex canariensis)](Irudiak/Gorosti%20Kanariarra%20%28Ilex%20canariensis%29%2001.jpg)
-
-![Gorosti Kanariarra (Ilex canariensis)](Irudiak/Gorosti%20Kanariarra%20%28Ilex%20canariensis%29%2002.jpg)
+<div class="plant-gallery gallery-2">
+	<img src="Irudiak/Gorosti%20Kanariarra%20%28Ilex%20canariensis%29%2001.jpg" alt="Gorosti Kanariarra (Ilex canariensis)" loading="lazy">
+	<img src="Irudiak/Gorosti%20Kanariarra%20%28Ilex%20canariensis%29%2002.jpg" alt="Gorosti Kanariarra (Ilex canariensis)" loading="lazy">
+</div>
 
 
 ---

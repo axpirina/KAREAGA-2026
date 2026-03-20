@@ -11,9 +11,10 @@ Azalpena: Hosto konposatu denteztatuak ditu, eta udaberrian lore-multzo ilunak a
 
 ## Irudiak
 
-![Lizarra (Fraxinus excelsior)](Irudiak/Lizarra%20%28Fraxinus%20excelsior%29%2001.jpg)
-
-![Lizarra (Fraxinus excelsior)](Irudiak/Lizarra%20%28Fraxinus%20excelsior%29%2002.jpg)
+<div class="plant-gallery gallery-2">
+	<img src="Irudiak/Lizarra%20%28Fraxinus%20excelsior%29%2001.jpg" alt="Lizarra (Fraxinus excelsior)" loading="lazy">
+	<img src="Irudiak/Lizarra%20%28Fraxinus%20excelsior%29%2002.jpg" alt="Lizarra (Fraxinus excelsior)" loading="lazy">
+</div>
 
 
 ---

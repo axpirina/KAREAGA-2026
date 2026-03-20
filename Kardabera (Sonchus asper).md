@@ -11,9 +11,10 @@ Azalpena: Hosto horzdun eta arantzadunak ditu, eta zurtoinak tonu gorrixka har d
 
 ## Irudiak
 
-![Kardabera (Sonchus asper)](Irudiak/Kardabera%20%28Sonchus%20asper%29%2001.jpg)
-
-![Kardabera (Sonchus asper)](Irudiak/Kardabera%20%28Sonchus%20asper%29%2002.jpg)
+<div class="plant-gallery gallery-2">
+	<img src="Irudiak/Kardabera%20%28Sonchus%20asper%29%2001.jpg" alt="Kardabera (Sonchus asper)" loading="lazy">
+	<img src="Irudiak/Kardabera%20%28Sonchus%20asper%29%2002.jpg" alt="Kardabera (Sonchus asper)" loading="lazy">
+</div>
 
 
 ---

@@ -11,9 +11,10 @@ Azalpena: Karpetako irudietatik osatutako fitxa.
 
 ## Irudiak
 
-![Alkebelarra (Dactylis glomerata) Bazka belarra GRAMINEA](Irudiak/Alkebelarra%20%28Dactylis%20glomerata%29%20Bazka%20belarra%20GRAMINEA%20%2001%20.jpg)
-
-![Alkebelarra (Dactylis glomerata) Bazka belarra GRAMINEA](Irudiak/Alkebelarra%20%28Dactylis%20glomerata%29%20Bazka%20belarra%20GRAMINEA%20%2002%20.jpg)
+<div class="plant-gallery gallery-2">
+	<img src="Irudiak/Alkebelarra%20%28Dactylis%20glomerata%29%20Bazka%20belarra%20GRAMINEA%20%2001%20.jpg" alt="Alkebelarra (Dactylis glomerata) Bazka belarra GRAMINEA" loading="lazy">
+	<img src="Irudiak/Alkebelarra%20%28Dactylis%20glomerata%29%20Bazka%20belarra%20GRAMINEA%20%2002%20.jpg" alt="Alkebelarra (Dactylis glomerata) Bazka belarra GRAMINEA" loading="lazy">
+</div>
 
 
 ---
